@@ -1,0 +1,5 @@
+pandas
+plotly
+psycopg2
+yahoofinancials
+yfinance
