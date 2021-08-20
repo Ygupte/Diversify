@@ -1,6 +1,0 @@
-pandas
-plotly
-psycopg2
-yahoofinancials
-yfinance
-pypfopt
