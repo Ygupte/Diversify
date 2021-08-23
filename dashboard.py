@@ -2,7 +2,6 @@ from pypfopt.efficient_frontier import EfficientFrontier
 from pypfopt.discrete_allocation import DiscreteAllocation , get_latest_prices
 from pypfopt import risk_models
 from pypfopt import expected_returns
-import matplotlib.pyplot as plt
 from datetime import datetime
 import streamlit as st
 from yahoofinancials import YahooFinancials
