@@ -5,3 +5,5 @@ yahoofinancials
 yfinance
 pyportfolioopt  
 openpyxl
+cvxpy
+cvxopt
